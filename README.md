@@ -1,6 +1,6 @@
 # seu_os_experiment
 szw老师 课后操作系统实验
-# 1.用信号量表示独木桥实验：
+#1.用信号量表示独木桥实验：
   Single-Lane Bridge Problem is illustrated in the following figure: A bridge over a river is only wide enough to permit a single lane of traffic. Consequently, cars can only move concurrently if they are moving in the same direction. If two cars that move in different directions enter the bridge at the same time, then the safety rule is violated. 
 
 More specifically, the management rules for the single-lane bridge is given as follows, assuming the two entrances of the bridge are denoted by ‘A’ and ‘B’. 
